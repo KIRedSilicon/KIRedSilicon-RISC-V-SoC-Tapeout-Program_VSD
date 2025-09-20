@@ -43,7 +43,7 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
- 
+ ![screenshot](https://github.com/KIRedSilicon/KIRedSilicon-RISC-V-SoC-Tapeout-Program_VSD/blob/master/Week_0/Images/iverilog_status.jpg)
 #### <ins>**gtkwave**</ins>
 ```bash
 $ sudo apt-get update
