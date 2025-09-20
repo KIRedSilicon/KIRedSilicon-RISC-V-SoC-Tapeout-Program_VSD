@@ -23,7 +23,7 @@ This repository documents my **week-by-week progress** with tasks inside each we
 
 | Task | Description | Status |
 |------|-------------|---------|
-| [**Task 0**](Week0/Task0/README.md) | 🛠️ [Tools Installation](Week0/Task0/README.md) — Installed **Iverilog**, **Yosys**, and **GTKWave** | ✅ Done |
+| [**Task 0**](./Week0/Task0/README.md) | 🛠️ [Tools Installation](./Week0/Task0/README.md) — Installed **Iverilog**, **Yosys**, and **GTKWave** | ✅ Done |
 
 ### 🌟 Key Learnings from Week 0
 - Installed and verified **open-source EDA tools** successfully.  
@@ -42,9 +42,10 @@ I also acknowledge the support of **RISC-V International**, **India Semiconducto
 
 ## 📈 Weekly Progress Tracker
 
-[![Week0](https://img.shields.io/badge/Week%200-Tools%20Setup-success?style=flat-square)](Week0)
-![Week 1](https://img.shields.io/badge/Week%201-Coming%20Soon-lightgrey?style=flat-square)
-![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)
+- [x] [Week 0 — Tools Setup](./Week0/Task0/README.md)  
+- [ ] Week 1 — RTL Design  
+- [ ] Week 2 — Synthesis  
+- [ ] Week 3 — Physical Design  
 
 ---
 
