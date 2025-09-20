@@ -50,4 +50,4 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
  
-"C:\Users\guruk\OneDrive\Pictures\Screenshots\gtkwave.jpeg.png"
+![screenshot](https://github.com/KIRedSilicon/KIRedSilicon-RISC-V-SoC-Tapeout-Program_VSD/blob/master/Week_0/Images/gtkwave_installation.png)
