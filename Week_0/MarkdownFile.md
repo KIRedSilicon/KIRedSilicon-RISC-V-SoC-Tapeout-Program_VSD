@@ -37,6 +37,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
+![screenshot](https://github.com/KIRedSilicon/KIRedSilicon-RISC-V-SoC-Tapeout-Program_VSD/blob/master/Week_0/Images/yosys_installation.png)
  
 #### <ins>**Iverilog**</ins>
 ```bash
